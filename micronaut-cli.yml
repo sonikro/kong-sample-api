@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: kong.sample.api
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
