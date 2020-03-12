@@ -1,6 +1,6 @@
 # Kong Sample Api
 
-This API is supossed to be used along with the [Kont Experiment](https://github.com/sonikro/kong-experiment) environment
+This API is supossed to be used along with the [Kong Experiment](https://github.com/sonikro/kong-experiment) environment
 
 Please check that project first
 
